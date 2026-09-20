@@ -331,7 +331,7 @@ No. All analysis and cleanup decisions run completely on-device. Your file names
 | 🌐 Website | https://sentinel.digital |
 | ⬇️ Download | https://sentinel.digital/download |
 | 💳 Pricing | https://sentinel.digital/#pricing |
-| 🎥 Demo Video | https://www.youtube.com/watch?v=YOUR_VIDEO_ID |
+| 🎥 Demo Video | https://www.youtube.com/watch?v=CmMgBfvS0lM |
 
 ---
 
