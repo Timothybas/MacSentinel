@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/macOS-14.0%2B%20Sonoma%20%7C%20Sequoia-black?style=flat-square&logo=apple&logoColor=white" alt="macOS 14+">
   <img src="https://img.shields.io/badge/Apple%20Silicon-M1%20→%20M4-blueviolet?style=flat-square&logo=apple&logoColor=white" alt="Apple Silicon">
   <img src="https://img.shields.io/badge/Intel-Universal%20Binary-blue?style=flat-square" alt="Intel Universal">
+  <a href="https://github.com/Timothybas/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-Install-FBB040?style=flat-square&logo=homebrew&logoColor=black" alt="Homebrew"></a>
   <img src="https://img.shields.io/badge/Privacy-On--Device%20Only-green?style=flat-square" alt="Privacy First">
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="Proprietary">
 </p>
@@ -262,6 +263,20 @@ MacSentinel is designed around safe, transparent cleanup. **Your data never leav
 
 Reclaim space, speed up your Mac, and keep it healthy — **free to start**.
 
+### 🍺 Install via Homebrew
+
+```bash
+brew install --cask timothybas/tap/macsentinel
+```
+
+*Or add the tap first:*
+```bash
+brew tap timothybas/tap
+brew install --cask macsentinel
+```
+
+### ⬇️ Direct Download (DMG)
+
 <p align="center">
   <a href="https://sentinel.digital/download">
     <img src="https://img.shields.io/badge/⬇%20Download%20MacSentinel%20Free-sentinel.digital%2Fdownload-5B8DFF?style=for-the-badge&logoColor=white" alt="Download MacSentinel Free">
@@ -271,7 +286,8 @@ Reclaim space, speed up your Mac, and keep it healthy — **free to start**.
 | | |
 |---|---|
 | 🌐 **Official Website** | [sentinel.digital](https://sentinel.digital) |
-| ⬇️ **Download (Free)** | [sentinel.digital/download](https://sentinel.digital/download) |
+| ⬇️ **Direct Download** | [sentinel.digital/download](https://sentinel.digital/download) |
+| 🍺 **Homebrew Cask** | [`timothybas/tap/macsentinel`](https://github.com/Timothybas/homebrew-tap) |
 | 💳 **Pro Pricing** | [sentinel.digital/#pricing](https://sentinel.digital/#pricing) |
 | 🖥️ **Requirements** | macOS 14.0+ (Sonoma / Sequoia) · Apple Silicon (M1–M4) or Intel |
 
@@ -330,6 +346,7 @@ No. All analysis and cleanup decisions run completely on-device. Your file names
 |---|---|
 | 🌐 Website | https://sentinel.digital |
 | ⬇️ Download | https://sentinel.digital/download |
+| 🍺 Homebrew Tap | https://github.com/Timothybas/homebrew-tap |
 | 💳 Pricing | https://sentinel.digital/#pricing |
 | 🎥 Demo Video | https://www.youtube.com/watch?v=CmMgBfvS0lM |
 
